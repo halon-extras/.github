@@ -1,4 +1,4 @@
-![Halon MTA](https://github.com/halon-extras/.github/blob/main/porfile/github-readme.jpg) 
+![Halon MTA](https://github.com/halon-extras/.github/blob/main/profile/github-readme.jpg) 
 
 ## Halon MTA modules and plugins
 
