@@ -1,4 +1,4 @@
-![Halon](https://github.com/halon-extras/.github/blob/main/profile/github-readme.jpg) 
+![Halon](https://github.com/halon-extras/.github/blob/main/profile/halon_github_bg_alt_v2.png) 
 
 ## Halon modules and plugins
 
