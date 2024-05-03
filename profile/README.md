@@ -2,7 +2,7 @@
 
 ## Halon modules and plugins
 
-Halon is a fast, flexible and powerful email infrastructure software (MTA);
+Halon Engage & Protect is a fast, flexible and powerful email infrastructure software (MTA);
 designed for demanding uses such as large-scale email services.
 It is configured and extended using [Halon script](https://docs.halon.io/hsl/) (HSL) modules
 and C-compatible [plugins](https://docs.halon.io/manual/plugins.html) written in languages such as Go.
